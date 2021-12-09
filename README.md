@@ -4,6 +4,8 @@
 [![Downloads](https://static.pepy.tech/personalized-badge/grad-cam?period=total&units=international_system&left_color=black&right_color=blue&left_text=Total%20Downloads)](https://pepy.tech/project/grad-cam)
 
 # Adapting this library to use it for [OpenAI's CLIP](https://openai.com/blog/clip/)
+
+
 # Class Activation Map methods implemented in Pytorch
 
 `pip install grad-cam`
